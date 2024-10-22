@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Himanshu Prakash Mishra</h1>
 <h3 align="center">A passionate Full Stack developer from India.</h3>
 
-- 🔭 I’m currently working on [GetCricket](https://github.com/himanshu-mishra22/get-Cricket.git)
+- 🔭 I’m currently working on [Hotel Management App](https://github.com/SAMARTH-SHAKYA/PROJECT.git)
 
 - 🌱 I’m currently learning **Frameworks**
 
