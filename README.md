@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Frameworks**
 
-- 💬 Ask me about **angular, spring boot**
+- 💬 Discuss me about **Nodejs, React and Java**
 
 - 📫 How to reach me **mhimanshuprakash@gmail.com**
 
